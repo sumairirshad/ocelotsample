@@ -1,4 +1,4 @@
-# ocelotsample
+# Ocelot Sample
 
 I have implemented sample ocelot gateway with one microservice method.
 

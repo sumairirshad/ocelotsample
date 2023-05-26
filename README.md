@@ -1,4 +1,4 @@
-# Ocelot Sample
+# Sample API Gateway Implementation with Ocelot
 
 I have implemented sample ocelot gateway with one microservice method.see configuration.json in gateway
 
